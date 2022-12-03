@@ -1,0 +1,131 @@
+.body-home {
+  background-color: #15002b;
+}
+
+.home-heading {
+  color: white;
+  text-shadow: #ff66b2 3px 3px;
+  font-size: 60px;
+}
+
+.hov-home {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.hov-home:hover {
+  background-color: #ff66b2;
+}
+
+.body-product {
+  background-color: rgb(250, 250, 126);
+}
+
+.product-heading {
+  color: black;
+  text-shadow: white 1px 1px;
+  text-align: center;
+  font-size: 30px;
+}
+.product-heading2 {
+  color: black;
+  text-shadow: white 1px 1px;
+  text-align: left;
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+img {
+  float: center;
+}
+
+.p {
+  font-size: 25px;
+  color: white;
+  text-align: center;
+}
+
+.hov-product {
+  color: rgb(5, 122, 246);
+  font-size: 20px;
+  font-weight: bold;
+}
+.hov-product:hover {
+  background-color: white;
+}
+
+table {
+  background-color: rgb(72, 193, 253);
+  border-collapse: collapse;
+  width: 50%;
+}
+
+th,
+td {
+  padding: auto;
+  text-align: left;
+  border-radius: 5px;
+  border-bottom: 4px solid black;
+  border-right: 4px solid black;
+}
+
+tr:nth-child(even) {
+  background-color: rgb(42, 98, 253);
+  color: white;
+}
+
+.body-account {
+  background-color: #1e90ff;
+}
+
+.account-heading {
+  color: white;
+  text-shadow: black 2px 2px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.account-heading2 {
+  color: #ee82ee;
+  text-shadow: rgb(119, 32, 141) 3px 3px;
+  text-align: center;
+  font-size: 50px;
+}
+
+.account-heading3 {
+  color: white;
+  text-align: left;
+  font-size: 20px;
+}
+
+.form-one {
+  border-top: solid rgb(255, 254, 254) 4px;
+  padding: 3px;
+  align-items: center;
+  border-radius: 10%;
+}
+
+.p2 {
+  color: white;
+  text-align: left;
+  font-size: 20px;
+  font-style: bold;
+}
+
+.hov-account {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.hov-account:hover {
+  background-color: #1e4ccc;
+  color: white;
+}
+
+button {
+  background-color: #1e4ccc;
+  border: solid black;
+  color: white;
+}
